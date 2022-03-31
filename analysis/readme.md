@@ -1,0 +1,1 @@
+In this folder, it's possible to find python jupyter notebooks for the analysis of standard clustering algorithms and dumps of MOA for streaming clustering algorithms. Due to github size limitations we uploaded just the final preprocessed version of the dataset, the starting dataset, data-final.csv, can be found at: https://www.kaggle.com/tunguz/big-five-personality-test
