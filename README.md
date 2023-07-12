@@ -15,7 +15,7 @@ The project is organized as follows:
 - frontend/ contains the source code of the Java application working as a frontend
 - backend/ contains the source code of the Java application working as a backend
 <br>More information on the analysis and the software architecture are contained in the documentation and presentation.
-
+ 
 ## Application
 <p align="center">
 <img width="579" alt="Screenshot 2023-07-05 alle 21 34 10" src="https://github.com/terranovaa/PersonalityClustering/assets/61695945/1954fb1f-e6b8-463d-82c9-c5a01e15317f">
